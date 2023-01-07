@@ -19,11 +19,11 @@ function App() {
           <main>
             <div className="left-col">
                 <h1>Quality apparel without the price tag</h1>
-                <p>No need to spend $xxx on apparel just for the name's sake.
+                <p className='subhead'>No need to spend $xxx on apparel just for the name's sake.
                    Our premium apparel is made from the same stuff.
                 </p>
                 <div className="cta-buttons">
-                  <a href="#" className="primary-cta"><button>Browse our collection</button></a>
+                  <a href="#" className="primary-cta">Browse our collection</a>
                   
                   <a href="#" className="secondary-cta">
                     <span>Spring '23 Collection</span>
