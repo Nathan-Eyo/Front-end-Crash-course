@@ -73,7 +73,7 @@ function App() {
             </div>
           </main>
       </div>
-    </div>
+      </div>
   );
 }
 
